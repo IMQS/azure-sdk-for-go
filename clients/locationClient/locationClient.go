@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"errors"
 	"fmt"
-	azure "github.com/MSOpenTech/azure-sdk-for-go"
+	azure "github.com/IMQS/azure-sdk-for-go"
 )
 
 const (
